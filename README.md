@@ -73,14 +73,11 @@ end
 
 ### Simulation Results
 
- *Range Measurement*
- ![Range Measurement](Screenshot_1)
+ ![](Screeenshot_1.png)
  
- *Range Doppler Response*
- ![Range Doppler Response](Screenshot_2)
+ ![](Screeenshot_2.png)
  
- *2D CFAR Result*
- ![2D CFAR Result](Screenshot_3)
+ ![](Screeenshot_3.png)
  
  
  
